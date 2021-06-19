@@ -11,6 +11,7 @@ for stk in mydb.list_collection_names():
 
     mycol = mydb[stk]
     ohlcv = DataFrame(list(mycol.find({}, {'_id':0})))
+    # print(ohlcv)
 
     dt = ohlcv['Date']
     op = ohlcv['open']
