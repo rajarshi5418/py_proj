@@ -1,0 +1,8 @@
+{'user_type': 'individual', 'email': 'abha.sawaiyan@gmail.com', 'user_name': 'Abha Sawaiyan', 'user_shortname': 'Abha', 'broker': 'ZERODHA', 'exchanges': ['BSE', 
+'NSE', 'NFO', 'CDS', 'BFO', 'MCX', 'MF'], 'products': ['CNC', 'NRML', 'MIS', 'BO', 'CO'], 'order_types': ['MARKET', 'LIMIT', 'SL', 'SL-M'], 'avatar_url': None, 'user_id': 'ZR3914', 'api_key': '9ema9zpibktv34kb', 'access_token': '1GEgQiHXKCdrreQDBl0kqeFNVKZuEBg7', 'public_token': 'ruLkyYNRozN39R253m0xhyDKKklRkhGY', 'refresh_token': '', 'silo': '', 'login_time': datetime.datetime(2021, 5, 2, 12, 47, 10), 'meta': {'demat_consent': 'physical'}}
+
+04 may 2021
+access token - LLh4bA6jSAUywHL79OEmrVLrdTrscbX0
+
+
+
