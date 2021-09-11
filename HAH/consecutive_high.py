@@ -1,11 +1,11 @@
 from nsepy import get_history
 from datetime import date, timedelta
 from nifty_stock_list import nifty_next_50,nifty_bank,\
-    nifty_metal,nifty,nifty_equity_to_trade
+    nifty_metal,nifty,nifty_equity_to_trade,nifty_midcap_100
 
 dict_uptrend = {}
 list_uptrend = []
-for ticker in nifty_equity_to_trade():
+for ticker in nifty_bank():
     count = 0
     # print(ticker)
     end_day = date.today()
